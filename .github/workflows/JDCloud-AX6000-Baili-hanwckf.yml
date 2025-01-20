@@ -39,7 +39,7 @@ on:
       SW_DRIVER:
         description: 'Choose Switch Driver'
         required: true
-        default: 'DSA'
+        default: 'GSW'
         type: choice
         options:
         - GSW
